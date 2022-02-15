@@ -1,0 +1,3 @@
+- Hi. i am László Kétszeri.
+- I am interesrted in Electronic Public Procurement.
+- I am working on an EBSI project.
